@@ -1,7 +1,7 @@
 # datafun-05-sql-project
 
 
-#Created new Repo and Cloned:
+Created new Repo and Cloned:
 ```
 git clone URL
 ```
