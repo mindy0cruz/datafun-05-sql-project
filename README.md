@@ -1,8 +1,16 @@
 # datafun-05-sql-project
 
+
+#Created new Repo and Cloned:
 ```
 git clone URL
 ```
+#Added .gitignore 
+
+#Activated virtual enviroment
+.venv
+
+#Installed dependencies
 
 ```
 py-m venv .venv
@@ -10,7 +18,7 @@ py-m venv .venv
 py -m pip install pandas pyarrow
 py -m pip freeze > requirements.txt
 ```
-
+#Git Add and Commit
 ``` 
 git add .
 git commit -m "add .gitignore, cmds to readme"
