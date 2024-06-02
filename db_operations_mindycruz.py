@@ -1,4 +1,3 @@
-
 """
 Project 5
 Mindy Cruz
@@ -174,9 +173,4 @@ if __name__ == "__main__":
     execute_query_group()
     execute_query_join()
     logging.info("Program ended")
-
-
-
-
-
 
