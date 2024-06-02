@@ -17,6 +17,8 @@ py-m venv .venv
 py -m pip install pandas pyarrow
 py -m pip freeze > requirements.txt
 ```
+![alt text](image-1.png)
+
 Git Add and Commit
 ``` 
 git add .
@@ -26,6 +28,9 @@ git push origin main
 
 Added Data Folder
 *created authors.csv and books.csv
+
+Added Sql folders
+
 
 
 
