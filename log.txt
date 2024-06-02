@@ -37,3 +37,52 @@
 2024-06-02 15:24:31,273 - INFO - Program ended
 2024-06-02 15:24:31,273 - INFO - Program started
 2024-06-02 15:24:31,318 - INFO - Program ended
+2024-06-02 15:33:20,021 - INFO - Program started
+2024-06-02 15:33:20,021 - INFO - Program ended
+2024-06-02 15:33:20,021 - INFO - Program started
+2024-06-02 15:33:20,061 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:33:20,071 - ERROR - Error executing query join from SQL: no such column: authors.last_name
+2024-06-02 15:33:20,071 - INFO - Program ended
+2024-06-02 15:34:04,617 - INFO - Program started
+2024-06-02 15:34:04,617 - INFO - Program ended
+2024-06-02 15:34:04,617 - INFO - Program started
+2024-06-02 15:34:04,657 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:34:04,666 - ERROR - Error executing query join from SQL: no such column: authors.last_name
+2024-06-02 15:34:04,666 - INFO - Program ended
+2024-06-02 15:34:52,288 - INFO - Program started
+2024-06-02 15:34:52,288 - INFO - Program ended
+2024-06-02 15:34:52,289 - INFO - Program started
+2024-06-02 15:34:52,325 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:34:52,336 - ERROR - Error executing query join from SQL: no such column: authors.last_name
+2024-06-02 15:34:52,337 - INFO - Program ended
+2024-06-02 15:35:24,435 - INFO - Program started
+2024-06-02 15:35:24,435 - INFO - Program ended
+2024-06-02 15:35:24,435 - INFO - Program started
+2024-06-02 15:35:24,472 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:35:24,481 - ERROR - Error executing query join from SQL: no such column: authors.last_name
+2024-06-02 15:35:24,482 - INFO - Program ended
+2024-06-02 15:35:37,351 - INFO - Program started
+2024-06-02 15:35:37,351 - INFO - Program ended
+2024-06-02 15:35:37,351 - INFO - Program started
+2024-06-02 15:35:37,389 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:35:37,397 - ERROR - Error executing query join from SQL: no such column: authors.last_name
+2024-06-02 15:35:37,397 - INFO - Program ended
+2024-06-02 15:37:31,620 - INFO - Program started
+2024-06-02 15:37:31,621 - INFO - Program ended
+2024-06-02 15:37:31,621 - INFO - Program started
+2024-06-02 15:37:31,657 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:37:31,673 - INFO - Program ended
+2024-06-02 15:38:45,697 - INFO - Program started
+2024-06-02 15:38:45,697 - INFO - Program ended
+2024-06-02 15:38:45,697 - INFO - Program started
+2024-06-02 15:38:45,732 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:38:45,745 - INFO - Program ended
+2024-06-02 15:39:45,361 - INFO - Program started
+2024-06-02 15:39:45,361 - INFO - Program ended
+2024-06-02 15:39:45,361 - INFO - Program started
+2024-06-02 15:39:45,399 - ERROR - Error inserting data from SQL: table authors has no column named first_name
+2024-06-02 15:39:45,419 - INFO - Program ended
+2024-06-02 15:41:29,161 - INFO - Program started
+2024-06-02 15:41:29,161 - INFO - Program ended
+2024-06-02 15:41:29,161 - INFO - Program started
+2024-06-02 15:41:29,224 - INFO - Program ended

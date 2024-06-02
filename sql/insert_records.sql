@@ -1,5 +1,5 @@
 -- Insert the data below into the authors data set
-insert into authors (author_id, first_name, last_name) values
+insert into authors (author_id, first, last) values
 ('10f88232-1ae7-4d88-a6a2-dfcebb22a596', 'Harper', 'Lee'),
 ('c3a47e85-2a6b-4196-a7a8-8b55d8fc1f70', 'George', 'Orvill'),
 ('e0b75863-866d-4db4-85c7-df9bb8ee6dab', 'F. Scott', 'Fizz'),
